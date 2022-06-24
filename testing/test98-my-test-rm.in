@@ -1,0 +1,27 @@
+# Status with three adds and a possible remove
+I setup1.inc
++ k.txt wug.txt
++ z.txt notwug.txt
+> add k.txt
+<<<
+> add z.txt
+<<<
+> rm z.txt
+<<<
+> rm g.txt
+<<<
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+f.txt
+k.txt
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<

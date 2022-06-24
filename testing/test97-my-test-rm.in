@@ -1,0 +1,12 @@
+# Should throw error error.
+I prelude1.inc
++ k.txt wug.txt
++ z.txt notwug.txt
+> add k.txt
+<<<
+> rm k.txt
+<<<
+> add f.txt
+File does not exist.
+<<<
+I blank-status.inc
