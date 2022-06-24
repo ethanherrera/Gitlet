@@ -1,7 +1,7 @@
 # Gitlet
 A small scaled custom version of the Git version control system.
 
-##The main functionality that Gitlet supports is:
+## The main functionality that Gitlet supports is:
 
 1 Saving the contents of entire directories of files. In Gitlet, this is called committing, and the saved contents themselves are called commits.
 
